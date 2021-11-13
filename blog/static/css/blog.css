@@ -43,3 +43,7 @@ p.date {
     font-style: italic;
 }
 
+.pagination {
+    margin: 40px 0;
+    font-weight: bold;
+}
